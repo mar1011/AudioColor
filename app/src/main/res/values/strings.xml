@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AudioColor</string>
+    <string name="hex_nrgb">HEX: \nRGB:</string>
+    <string name="color_picker">Color Picker</string>
+    <string name="como_funciona">Como funciona?</string>
+    <string name="es_una_aplicaci_n_en_en_donde_puede_elegirse_el_color_que_va_a_tener_la_luz_y_hacerla_bailar_al_ritmo_de_la_m_sica">Es una aplicación en en donde puede elegirse el color que va a tener la luz y hacerla bailar al ritmo de la música</string>
+    <string name="atr_s">Atrás</string>
+</resources>
